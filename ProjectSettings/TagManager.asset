@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Destructable
+  - HeavyDebris
+  - Enemy
+  - Screen
+  - Barrel
+  - Bullet
+  - Glass
+  - EndTrigger
+  - Weapon
+  - Ground
+  - Collectable
+  - Button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Bullet
+  - InvisibleWall
+  - Rocket
+  - Enemy
+  - IgnoreLight
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - RenderLayer
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
