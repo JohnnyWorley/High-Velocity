@@ -20,13 +20,14 @@ Example of a text prompt during the tutorial:
 ![image](https://github.com/user-attachments/assets/f6e30770-f060-4de1-868f-0e77a1f3c7a8)
 
 Score Menu at the end of a level:
-![image](https://github.com/user-attachments/assets/cb04a60a-ddd4-4ac4-a70b-88373b1b3257)
+![image](https://github.com/user-attachments/assets/8bb75db1-ce19-4e61-840b-16e03fe9a7c0)
 
 Lava and Electricity Traps:
-![image](https://github.com/user-attachments/assets/234f7c42-e2ef-4e96-aedb-503751be7fc8)
+![image](https://github.com/user-attachments/assets/cb04a60a-ddd4-4ac4-a70b-88373b1b3257)
+
 
 Button:
-![image](https://github.com/user-attachments/assets/e8ef26ec-63b3-45da-8cbd-a368599da5f2)
+![image](https://github.com/user-attachments/assets/234f7c42-e2ef-4e96-aedb-503751be7fc8)
 
 Button Protected by a Crusher:
 ![image](https://github.com/user-attachments/assets/7f8fe954-697e-40aa-9a1b-b6b6acc041ab)
